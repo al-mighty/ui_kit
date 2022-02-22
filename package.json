@@ -5,7 +5,6 @@
   "scripts": {
     "rollup": "rollup -c"
   },
-  "private": "true",
   "author": "",
   "license": "ISC",
   "devDependencies": {
