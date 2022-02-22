@@ -1,5 +1,9 @@
 {
   "name": "@devVyacheslav/ui_kit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devVyacheslav/ui_kit.git"
+  },
   "version": "0.0.1",
   "description": "",
   "scripts": {
