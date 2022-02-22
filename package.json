@@ -2,7 +2,7 @@
   "name": "@devvyacheslav/ui_kit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devVyacheslav/ui_kit.git"
+    "url": "https://github.com/devvyacheslav/ui_kit.git"
   },
   "version": "0.0.1",
   "description": "",
@@ -28,6 +28,6 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/devVyacheslav"
+    "registry": "https://npm.pkg.github.com/devvyacheslav"
   }
 }
