@@ -5,7 +5,7 @@
     "url": "https://github.com/devvyacheslav/ui_kit.git"
   },
   "version": "0.0.1",
-  "description": "",
+  "description": "react component library",
   "scripts": {
     "rollup": "rollup -c"
   },
